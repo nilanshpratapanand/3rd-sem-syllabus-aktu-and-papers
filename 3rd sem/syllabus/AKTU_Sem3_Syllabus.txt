@@ -1,0 +1,75 @@
+AKTU B.TECH 2ND YEAR - SEMESTER III SYLLABUS
+(CSE / CSE-DS and allied branches | Effective Session 2023-24)
+│
+├───BOE3** / BAS303 — Science Based Open Elective / BSC (Maths-III/IV/V)
+│       Credits: 4 | L-T-P: 3-1-0
+│
+├───BVE301 / BAS301 — Universal Human Values & Professional Ethics / Technical Communication
+│       Credits: 3 | L-T-P: 2-1-0
+│
+├───BCS301 — Data Structure
+│   │   Credits: 4 | L-T-P: 3-1-0
+│   │
+│   ├───Unit I — Introduction, Arrays, Linked Lists
+│   │       ├── Basic terminology, ADT, algorithm efficiency, Big-O/Theta/Omega
+│   │       ├── Arrays: single/multi-dim, row/column major, sparse matrices
+│   │       └── Linked Lists: singly/doubly/circular, polynomial representation
+│   │
+│   ├───Unit II — Stacks & Queues
+│   │       ├── Stack ADT, push/pop, prefix/postfix evaluation
+│   │       ├── Recursion: principles, tail recursion, removal of recursion
+│   │       └── Queues: circular, dequeue, priority queue
+│   │
+│   ├───Unit III — Searching & Sorting
+│   │       ├── Sequential, index sequential, binary search
+│   │       ├── Hashing & collision resolution
+│   │       └── Insertion, Selection, Bubble, Quick, Merge, Heap, Radix sort
+│   │
+│   ├───Unit IV — Trees
+│   │       ├── Binary tree, BST, traversals (in/pre/post order)
+│   │       ├── Threaded binary trees, Huffman coding
+│   │       └── AVL Tree, B Tree, Binary Heaps
+│   │
+│   └───Unit V — Graphs
+│           ├── Representations: adjacency matrix/list
+│           ├── DFS, BFS, spanning trees (Prim's, Kruskal's)
+│           └── Shortest path: Warshall, Dijkstra
+│
+├───BCS302 — Computer Organization and Architecture
+│   │   Credits: 4 | L-T-P: 3-1-0
+│   │
+│   ├───Unit I — Functional units, buses, register/bus/memory transfer, addressing modes
+│   ├───Unit II — ALU: adders, Booth's algorithm, floating point arithmetic
+│   ├───Unit III — Control Unit: instruction cycle, pipelining, micro-programming
+│   ├───Unit IV — Memory: RAM/ROM, cache, virtual memory, auxiliary memory
+│   └───Unit V — I/O: interfaces, interrupts, DMA, serial communication
+│
+├───BCS303 — Discrete Structures & Theory of Logic
+│   │   Credits: 3 | L-T-P: 2-1-0
+│   │
+│   ├───Unit I — Set Theory, Relations, POSET & Lattices
+│   ├───Unit II — Functions, Boolean Algebra, Karnaugh maps
+│   ├───Unit III — Propositional & Predicate Logic
+│   ├───Unit IV — Algebraic Structures: Groups, Rings, Fields
+│   └───Unit V — Graphs, Combinatorics, Pigeonhole Principle
+│
+├───BCS351 — Data Structure Lab
+│       Credits: 1 | L-T-P: 0-0-2
+│       (Sorting, Searching/Hashing, Stacks, Queues, Linked Lists, Trees, Graphs)
+│
+├───BCS352 — Computer Organization and Architecture Lab
+│       Credits: 1 | L-T-P: 0-0-2
+│       (Half/Full Adder, Code Conversion, Decoder, MUX, Flip-Flops, ALU design)
+│
+├───BCS353 — Web Designing Workshop
+│       Credits: 1 | L-T-P: 0-0-2
+│       (HTML, CSS, Bootstrap, JavaScript — mini bookstore website project)
+│
+├───BCC301 / BCC302 — Cyber Security / Python Programming
+│       Credits: 2 | L-T-P: 2-0-0
+│
+└───BCC351 — Internship Assessment / Mini Project
+        Credits: 2
+        (Done during summer break after 4th semester, assessed in 5th semester)
+
+TOTAL SEMESTER III — L:15 T:5 P:6 | Total Credits: 25
